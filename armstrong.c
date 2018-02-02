@@ -1,7 +1,9 @@
 #include<stdio.h>
+#inclued<conio.h>
 int main()
 {
 int x,s,a=0,y;
+  clrscr();
 printf("enter the one value:");
 Scanf(" %d",&x);
 y=x;
