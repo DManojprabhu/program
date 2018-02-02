@@ -1,7 +1,9 @@
 #include<stdio.h>
+#include<conio.h>
 int main()
 {
 int n,i,flag=0;
+clrscr();
 printf("Enter a positive integer: ");
 scanf("%d",&m);
 for(i=3;i<=mmmm/3;++i)
