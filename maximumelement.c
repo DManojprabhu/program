@@ -1,6 +1,6 @@
 #include <stdio.h>
- 
-int main() 
+#inclued<conio.h>
+ void main() 
 {
  int i,n;
  int arr[100];
@@ -17,4 +17,6 @@ int main()
    a[0]=a[i];
  }
  printf("largest element%d",a[0]);
+}
+getch();
 }
