@@ -1,12 +1,12 @@
 #include<stdio.h>
 int main()
 {
-int a,i;
+int a,J;
 printf("enter the value");
 scanf("%d",&a);
-for(i=1;i<a;i++)
+for(J=1;J<a;i++)
 {
-printf("%d",i\n);
+printf("%d",J\n);
 }
 if(a/2!=0)
 {
