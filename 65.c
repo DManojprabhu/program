@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+main()
 {
 switch(printf("Hello world"))
 {
