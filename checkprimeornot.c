@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(void)
+void main()
 {
 	int a,i,count=0,n;
 	scanf("%d %d",&a,&n);
@@ -12,6 +12,4 @@ int main(void)
 	printf("%d is the prime number",a);
 	else
 	printf("%d is not a prime number",a);
-	return 0;
-	
-}
+	}
