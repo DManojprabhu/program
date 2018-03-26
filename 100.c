@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 void main()
 {
  int num,product=1,digit;
