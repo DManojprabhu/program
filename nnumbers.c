@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+void main()
 {
 	int n,k,i,a[10];
 	scanf("%d",&n);
@@ -9,5 +9,5 @@ int main()
 	    scanf("%d",&a[i]);
 	}
 	printf("%d",a[k-1]);
-	return 0;
+	getch();
 }
