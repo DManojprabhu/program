@@ -2,6 +2,7 @@
 int main(void)
 {
 int j,N,K,i,a[100],b[100],temp;
+  clrscr();
 scanf("%d %d",&N,&K);
 for(i=0;i<N;i++)
 {
